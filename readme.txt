@@ -1,2 +1,2 @@
 Git is good, I like it!
-you & me.
+you and me.
