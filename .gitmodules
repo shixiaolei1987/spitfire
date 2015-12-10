@@ -1,0 +1,3 @@
+[submodule "gitskills"]
+	path = gitskills
+	url = git@github.com:shixiaolei1987/gitskills.git
